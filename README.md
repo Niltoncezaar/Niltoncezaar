@@ -1,5 +1,5 @@
 - 👋 Oii Eu sou o Nilton Cezar
-- 🌱 Estudante de Análise e Desenvolvimento De Sistemas
+- 🌱 Estudante de Análise e Desenvolvimento De Sistemas e Técnico em Redes de Computadores
 - 📫  Contate-me no email:niltoncontato96@gmail.com
 - 🖤 Pronouns: Ele/Dele
 <!---
